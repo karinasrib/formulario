@@ -2,9 +2,10 @@ Olá, sou a Karina Ribeiro e estou dando continuidade no Desafio Gama Academy e 
 Nessa segunda fase foi proposto montar um formulário em HTML, CSS e JS.
 No qual teríamos que fazer um formulário com alguns requisitos, sendo eles:
 Campos obrigatórios para preenchimento, usar Javascript para abrir um Alert ao submeter o formulário e explorar o CSS no formulário.
-Ao começar a montar as pesquisas de referências foram fundamentais assim como as Playlist do Gama Academy, no qual eu aprendi novas funcionalidades e como aplicar no meu projeto, um exemplo foi utilizar o <opition> para poder colocar um botão no qual o usuário poderia escolher seu Estado em vez de Escrever no campo, juntamente com o Javascript para abrir um alerta ao não preencher os campos obrigatórios e um alerta final ao entregar formulário.Link do  site  https://formulario-gama-oficial.netlify.app/
-
-
+Ao começar a montar as pesquisas de referências foram fundamentais assim como as Playlist do Gama Academy, no qual eu aprendi novas funcionalidades e como aplicar no meu projeto, um exemplo foi utilizar o <opition> para poder colocar um botão no qual o usuário poderia escolher seu Estado em vez de Escrever no campo, juntamente com o Javascript para abrir um alerta ao não preencher os campos obrigatórios e um alerta final ao entregar formulário.
+  link do site  https://formulario-gama-oficial.netlify.app/
+  
+  
 Foi utilizados os links para referência:
 
 Fonte de referência para utilizar todos os recursos.
